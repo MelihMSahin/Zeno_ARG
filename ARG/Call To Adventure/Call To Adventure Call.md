@@ -11,6 +11,7 @@ This time I need your help for I cannot do it alone. Me and my compatriots of th
 
 If you have been able to read this message then you are on the right track to save maths. The road ahead is long and I cannot disclose much at the moment but I shall contact you through the Mathematics Society events since that is when Howard taunts us with his clues. 
 For now, await further instructions and meet your fellow compatriots who will be able to help you on this quest. Here is where you can find them [discordLink]. 
+
 May the odds be ever in your favour, 
 ~un Ciphered~ 
 Sir Ceaser Cipher
