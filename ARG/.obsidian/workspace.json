@@ -4,22 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "e814e07b783038dc",
+        "id": "5d56edd3b41f6e24",
         "type": "tabs",
         "children": [
           {
-            "id": "3b788a6de93a9090",
+            "id": "ae193949302ec2db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Call To Adventure/Call To Adventure Call.md",
+<<<<<<< HEAD
+=======
+                "file": "Self Contained Event Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab25c8fbc997a2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
+                "file": "Call To Adventure/Call To Adventure Call.md",
+                "mode": "source",
+                "source": false
+              }
+<<<<<<< HEAD
+=======
+            }
+          },
+          {
+            "id": "19ac39922e8826f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Call To Adventure/Ciphered Call To Adventure.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +116,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Call To Adventure/Call To Adventure Call.md",
+=======
+                "file": "Call To Adventure/Ciphered Call To Adventure.md",
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Call To Adventure/Call To Adventure Call.md",
+=======
+                "file": "Call To Adventure/Ciphered Call To Adventure.md",
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +164,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Call To Adventure/Call To Adventure Call.md"
+=======
+                "file": "Call To Adventure/Ciphered Call To Adventure.md"
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
               }
             }
           }
@@ -146,17 +189,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b788a6de93a9090",
+  "active": "19ac39922e8826f8",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Call To Adventure/Ciphered Call To Adventure.md",
     "Self Contained Event Structure.md",
     "Characters.md",
     "Call to Action.md",
+=======
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
     "Call To Adventure/Call To Adventure Call.md",
+    "Call to Action.md",
+    "Call To Adventure/Ciphered Call To Adventure.md",
     "Call To Adventure",
     "storyPlan.md",
+<<<<<<< HEAD
     "Call To Adventure.md",
     "Welcome.md",
     "TestDoc for Git.md"
+=======
+    "Characters.md",
+    "Self Contained Event Structure.md",
+    "TestDoc for Git.md",
+    "Welcome.md"
+>>>>>>> a51b9a47fbcaccb1f9de19171619fbe2ed7ca4ce
   ]
 }
