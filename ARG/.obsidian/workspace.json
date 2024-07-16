@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Call To Adventure/Call To Adventure enciphered.md",
+                "file": "Call To Adventure/Call To Adventure.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Call To Adventure/Call To Adventure enciphered.md",
+                "file": "Call To Adventure/Call To Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Call To Adventure/Call To Adventure enciphered.md",
+                "file": "Call To Adventure/Call To Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Call To Adventure/Call To Adventure enciphered.md"
+                "file": "Call To Adventure/Call To Adventure.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "29dd1fdc16e08324",
   "lastOpenFiles": [
-    "Call To Adventure/Call To Adventure.md",
     "Call To Adventure/Call To Adventure enciphered.md",
+    "Call To Adventure/Call To Adventure.md",
     "Call to Action.md",
     "Characters.md",
     "Self Contained Event Structure.md",
