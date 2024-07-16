@@ -6,7 +6,8 @@ We have been sent a puzzle given to us for you to solve.
 [[Call To Adventure enciphered]]
 ~ciphertext~
 
-Dear Seeker of the Truth
+Dear Seeker of the Truth,
+
 I dearly hope this invitation has been able to reach you. As you may have heard, Professor Zeno has recently been captured and everyone is unsure who the perpetrator is, but I do know who and why. A man by the name of Terrence D. Howard has captured Professor Zeno for use in his nefarious plan in undermining logic and destroying Mathematics at it’s root.
 
 I am unable to communicate openly as Terrence has hired someone to intercept my messages in the past, so we must use more discreet forms of communication. To Terrence I am sure this looks like gibberish and he shall ignore it.
@@ -23,4 +24,4 @@ May the odds be ever in your favour,
 
 ~plaintext~
 
-Sir Caeser
+Sir Caeser Cipher
