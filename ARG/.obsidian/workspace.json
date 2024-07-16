@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f111a14f6ec7102",
+            "id": "ae193949302ec2db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Self Contained Event Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "803b110700785ea1",
+            "id": "ab25c8fbc997a2ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "Characters.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d61f6351000263e7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7a419dd91fbdb665",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "Characters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "Characters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestDoc for Git.md"
+                "file": "Characters.md"
               }
             }
           }
@@ -173,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f94bd51ef915b0e",
+  "active": "ab25c8fbc997a2ea",
   "lastOpenFiles": [
-    "Welcome.md",
-    "TestDoc for Git.md"
+    "Self Contained Event Structure.md",
+    "Characters.md",
+    "TestDoc for Git.md",
+    "Welcome.md"
   ]
 }
