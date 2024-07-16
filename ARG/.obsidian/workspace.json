@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z notes.md",
+                "file": "Call To Adventure/Call To Adventure enciphered.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "z notes.md",
+                "file": "Call To Adventure/Call To Adventure enciphered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "z notes.md",
+                "file": "Call To Adventure/Call To Adventure enciphered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "z notes.md"
+                "file": "Call To Adventure/Call To Adventure enciphered.md"
               }
             }
           }
@@ -173,14 +173,14 @@
   },
   "active": "29dd1fdc16e08324",
   "lastOpenFiles": [
+    "Call To Adventure/Call To Adventure.md",
+    "Call to Action.md",
+    "Characters.md",
+    "Self Contained Event Structure.md",
     "Story Plan.md",
     "z notes.md",
-    "Self Contained Event Structure.md",
-    "Call to Action.md",
     "Call To Adventure/Call To Adventure enciphered.md",
-    "Call To Adventure/Call To Adventure.md",
     "The Order/Cryptographic Table.md",
-    "Characters.md",
     "The Order/The Order of the Abacus.md",
     "The Order"
   ]
