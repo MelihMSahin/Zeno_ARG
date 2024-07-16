@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "Call To Adventure.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "Call To Adventure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters.md",
+                "file": "Call To Adventure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters.md"
+                "file": "Call To Adventure.md"
               }
             }
           }
@@ -162,6 +162,7 @@
   "active": "ab25c8fbc997a2ea",
   "lastOpenFiles": [
     "storyPlan.md",
+    "Call To Adventure.md",
     "Characters.md",
     "Self Contained Event Structure.md",
     "TestDoc for Git.md",
