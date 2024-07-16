@@ -22,5 +22,4 @@ For now, await further instructions and meet your fellow compatriots who will be
 May the odds be ever in your favour,
 
 ~plaintext~
-
-Sir Caeser
+Sir Caesar 3
