@@ -1,4 +1,4 @@
-Dear Acolyte of the Abacus,
+Dear Seeker of Truth,
 
 L ghduob krsh wklv lqylwdwlrq kdv ehhq deoh wr uhdfk brx. Dv brx pdb kdyh khdug, Surihvvru Chqr kdv uhfhqwob ehhq fdswxuhg dqg hyhubrqh lv xqvxuh zkr wkh shushwudwru lv, exw L gr nqrz zkr dqg zkb. 
 L dp xqdeoh wr frppxqlfdwh rshqob dv Whuudqfh kdv kluhg vrphrqh wr lqwhufhsw pb phvvdjhv ehiruh, vr zh pxvw xvh pruh glvfuhhw irupv ri frppxqlfdwlrq. Wr Whuudqfh L dp vxuh wklv orrnv olnh jleehulvk dqg kh vkdoo ljqruh lw. 
@@ -9,4 +9,4 @@ Li brx kdyh ehhq deoh wr uhdg wklv phvvdjh wkhq brx duh rq wkh uljkw wudfn wr vd
 Iru qrz, dzdlw ixuwkhu lqvwuxfwlrqv dqg phhw brxu ihoorz frpsdwulrwv zkr zloo eh deoh wr khos brx rq wklv txhvw. Khuh lv zkhuh brx fdq ilqg wkhp [glvfrugOlqn]. 
 Pdb wkh rggv eh hyhu lq brxu idyrxu, 
 
-Sir Ceaser Cipher
+Sir Caeser Cipher

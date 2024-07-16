@@ -1,5 +1,5 @@
 # Event Timeline
-- [[Call To Adventure Call]] and the Pizza Party
+- [[Call To Adventure]] and the Pizza Party
 - [[Introduction to Terrance]] (Board Games Event)
 - 
 - 
