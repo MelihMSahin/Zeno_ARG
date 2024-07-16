@@ -25,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "Story Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4ac2ace5b7d03195",
+            "id": "29dd1fdc16e08324",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "Call To Adventure/Call To Adventure enciphered.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters.md",
+                "file": "Call To Adventure/Call To Adventure enciphered.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters.md"
+                "file": "Call To Adventure/Call To Adventure enciphered.md"
               }
             }
           }
@@ -171,14 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e4a41934fdc65ac",
+  "active": "29dd1fdc16e08324",
   "lastOpenFiles": [
-    "z notes.md",
-    "Call To Adventure/Call To Adventure enciphered.md",
-    "Call To Adventure/Call To Adventure.md",
-    "Call to Action.md",
+    "Self Contained Event Structure.md",
     "Story Plan.md",
+    "Call To Adventure/Call To Adventure.md",
+    "The Order/Cryptographic Table.md",
+    "Characters.md",
+    "Call to Action.md",
     "The Order/The Order of the Abacus.md",
+    "Call To Adventure/Call To Adventure enciphered.md",
+    "z notes.md",
     "The Order"
   ]
 }

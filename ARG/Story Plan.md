@@ -2,5 +2,6 @@
 - [[Call To Adventure]] and the Pizza Party
 - [[Introduction to Terrance]] (Board Games Event)
 - 
+- b
 - 
-- finding Zeno (keychains?) in Maths building
+- Finding Zeno (keychains?) in Maths building
