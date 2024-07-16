@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "storyPlan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "Call to Action.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "d61f6351000263e7",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "storyPlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TestDoc for Git.md",
+                "file": "storyPlan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TestDoc for Git.md"
+                "file": "storyPlan.md"
               }
             }
           }
@@ -173,8 +172,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f94bd51ef915b0e",
+  "active": "2f111a14f6ec7102",
   "lastOpenFiles": [
+    "Call to Action.md",
     "Welcome.md",
     "TestDoc for Git.md"
   ]
