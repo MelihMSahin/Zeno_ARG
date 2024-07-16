@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Plan.md",
+                "file": "z notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Story Plan.md",
+                "file": "z notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Story Plan.md",
+                "file": "z notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Story Plan.md"
+                "file": "z notes.md"
               }
             }
           }
@@ -173,8 +173,8 @@
   },
   "active": "29dd1fdc16e08324",
   "lastOpenFiles": [
-    "z notes.md",
     "Story Plan.md",
+    "z notes.md",
     "Self Contained Event Structure.md",
     "Call to Action.md",
     "Call To Adventure/Call To Adventure enciphered.md",
