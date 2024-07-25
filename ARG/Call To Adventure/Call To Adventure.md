@@ -17,7 +17,7 @@ This time I need your help for I cannot do it alone. Me and my compatriots of th
 
 If you have been able to read this message then you are on the right track to save maths. The road ahead is long and I cannot disclose much at the moment but I shall contact you through the Mathematics Society events since that is when Howard taunts us with his clues.
 
-For now, meet your fellow compatriots who will be able to help you on this quest. To reach them you must first join the [discordLink], then dm me with your student id and secret emote to gain full access. Now you can greet your compatriots, more instructions will arrive soon.
+For now, meet your fellow compatriots who will be able to help you on this quest. To reach them you must first join the [discordLink], then dm me your student to gain full access. Now you can greet your compatriots, more instructions will arrive soon.
 
 May the odds be ever in your favour,
 
