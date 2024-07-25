@@ -1,68 +1,39 @@
 {
   "main": {
-    "id": "3ed2d3be86a65b14",
+    "id": "30800026c3e20b99",
     "type": "split",
     "children": [
       {
-        "id": "7d4ed14a9a083400",
+        "id": "b67c62d513626a93",
         "type": "tabs",
         "children": [
           {
-            "id": "72bb3a1f53523106",
+            "id": "a0706de77b0eba73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Call to Action.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e4a41934fdc65ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Story Plan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29dd1fdc16e08324",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Story Plan.md",
-=======
                 "file": "Call To Adventure/Call To Adventure.md",
->>>>>>> ae97893fc70b9a27fd43ac22b38d601652490b42
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0431725637069d38",
+    "id": "edf45f889f5e273e",
     "type": "split",
     "children": [
       {
-        "id": "c3a8f339b765f370",
+        "id": "bcc62ede847fcf9e",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc8e80e333543dc",
+            "id": "6686284180b86ece",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +43,7 @@
             }
           },
           {
-            "id": "008ff42615c46513",
+            "id": "d5604053514c8061",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +58,7 @@
             }
           },
           {
-            "id": "44ad4017ba1e3ddd",
+            "id": "235c76e975cfa1f5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "a0f5cd28058c9de6",
+    "id": "e7eb1284d260428d",
     "type": "split",
     "children": [
       {
-        "id": "df997b8e0513388f",
+        "id": "19f3204758af6a60",
         "type": "tabs",
         "children": [
           {
-            "id": "8e7fe899cb47dfbd",
+            "id": "02a2a0a8071667d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -126,7 +97,7 @@
             }
           },
           {
-            "id": "2478a7d4e4b6ed10",
+            "id": "a7d2609767b79efc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -138,7 +109,7 @@
             }
           },
           {
-            "id": "01cdbe3d2204ba3a",
+            "id": "28dede7e7fd2e198",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +120,7 @@
             }
           },
           {
-            "id": "428c5064beccd658",
+            "id": "8a7a96f0060d437f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -175,24 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29dd1fdc16e08324",
+  "active": "a0706de77b0eba73",
   "lastOpenFiles": [
     "Call To Adventure/Call To Adventure enciphered.md",
-    "Call To Adventure/Call To Adventure.md",
-    "Call to Action.md",
-    "Characters.md",
-    "Self Contained Event Structure.md",
-    "Call To Adventure/Call To Adventure.md",
-    "Call To Adventure/Call To Adventure enciphered.md",
-    "Story Plan.md",
-    "Call to Action.md",
-    "The Order/Cryptographic Table.md",
-    "Characters.md",
-    "The Order/The Order of the Abacus.md",
-    "Story Plan.md",
-    "z notes.md",
-    "The Order/Cryptographic Table.md",
-    "The Order/The Order of the Abacus.md",
-    "The Order"
+    "Call To Adventure/Call To Adventure.md"
   ]
 }

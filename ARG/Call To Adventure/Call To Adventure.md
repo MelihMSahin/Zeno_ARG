@@ -1,12 +1,11 @@
-Welcome prospective Maths Society Members!!
 
-We have been sent a puzzle given to us for you to solve.
+To the brave adventurers willing to take up this challenge,
 
+We invite you to joint he Mathematics Society! Math. Soc. offers a blend of academic seminars and exciting social events. Meet our mascot, the Tortoise Professor Zeno and be a part of a community that shares your passion for mathematics. Enjoy pizza parties, movie nights, ice-skating and much more while expanding your academic network through our seminars and talks.
 
-[[Call To Adventure enciphered]]
+This year we have a massive adventure like no other that is sure to teach you about the nerdiest depths of mathematics while challenging your attention to detail, knowledge of mathematical paradoxes and digital literacy. But to earn the right to start this quest; you must first contact the rest of the 
+
 ~ciphertext~
-
-Dear Seeker of the Truth,
 
 I dearly hope this invitation has been able to reach you. As you may have heard, Professor Zeno has recently been captured and everyone is unsure who the perpetrator is, but I do know who and why. A man by the name of Terrence D. Howard has captured Professor Zeno for use in his nefarious plan in undermining logic and destroying Mathematics at it’s root.
 
@@ -18,7 +17,7 @@ This time I need your help for I cannot do it alone. Me and my compatriots of th
 
 If you have been able to read this message then you are on the right track to save maths. The road ahead is long and I cannot disclose much at the moment but I shall contact you through the Mathematics Society events since that is when Howard taunts us with his clues.
 
-For now, await further instructions and meet your fellow compatriots who will be able to help you on this quest. Here is where you can find them [discordLink].
+For now, meet your fellow compatriots who will be able to help you on this quest. To reach them your secret emote is [secret emote]. Here is where you can find the [discordLink], use your secret emote to gain full access and greet your compatriots, more instructions will arrive soon.
 
 May the odds be ever in your favour,
 
