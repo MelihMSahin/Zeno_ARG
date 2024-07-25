@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5de44c2ed0fe3793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Call To Adventure/Call To Adventure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0706de77b0eba73",
+  "active": "5de44c2ed0fe3793",
   "lastOpenFiles": [
     "Call To Adventure/Call To Adventure enciphered.md",
     "Call To Adventure/Call To Adventure.md"
