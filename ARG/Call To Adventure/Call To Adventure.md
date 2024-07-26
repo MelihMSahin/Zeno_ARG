@@ -5,7 +5,7 @@ We invite you to join the Mathematics Society! We offer a blend of academic semi
 
 This year we have a massive adventure that is sure to teach you about the nerdiest depths of mathematics, while challenging your attention to detail, knowledge of mathematical paradoxes, and digital literacy. But to earn the right to start this quest; you must first solve this here puzzle written by our dear friend Sir Caesar. 
 
-~ciphertext~
+~ciphertext (Standard +3 Encryption)~
 Dear Seeker of Truth
 
 I dearly hope this invitation has been able to reach you. As you may have heard, Professor Zeno has recently been captured and everyone is unsure who the perpetrator is, but I have a suspicion that Professor Terrence D. Howard has captured Professor Zeno for his nefarious plan to  undermine logic and destroying Mathematics at it’s root.
@@ -17,6 +17,8 @@ I have sent out this invitation to others like you, others who will be able to a
 This time I need your help for I cannot do it alone. Me and my compatriots of the [[Cryptographic table]] have been having a harder and harder time solving his challenges, and we need help to discredit Terrence once and for all. 
 
 If you have been able to read this message then you are on the right track to save maths. The road ahead is long and I cannot disclose much at the moment but I shall contact you through the Mathematics Society events since that is when Howard taunts us with his clues.
+
+For now, reply to the sender of this message 'Eat This' to proceed. 
 
 For now, meet your fellow compatriots who will be able to help you on this quest. To reach them you must first join the [discord Link], then contact me with your student ID to gain full access. Now you can greet your compatriots, more instructions will arrive soon. 
 
