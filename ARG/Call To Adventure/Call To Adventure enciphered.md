@@ -1,3 +1,10 @@
+
+To the brave adventurers willing to take up this challenge,
+
+We invite you to join the Mathematics Society! We offer a blend of academic seminars, exciting social events such as board game nights, a pizza party, movie nights, ice-skating, and an opportunity to meet like minded people at our seminars and events. Meet our mascot, the Tortoise Professor Zeno, and be a part of a community that shares your passion in mathematics. 
+
+This year we have a massive adventure that is sure to teach you about the nerdiest depths of mathematics, while challenging your attention to detail, knowledge of mathematical paradoxes, and digital literacy. But to earn the right to start this quest; you must first solve this here puzzle written by our dear friend Sir Caesar. 
+
 Ghdu Vhhnhu ri Wuxwk  
   
 L ghduob krsh wklv lqylwdwlrq kdv ehhq deoh wr uhdfk brx. Dv brx pdb kdyh khdug, Surihvvru Chqr kdv uhfhqwob ehhq fdswxuhg dqg hyhubrqh lv xqvxuh zkr wkh shushwudwru lv, exw L kdyh d vxvslflrq wkdw Surihvvru Whuuhqfh G. Krzdug kdv fdswxuhg Surihvvru Chqr iru klv qhidulrxv sodq wr  xqghuplqh orjlf dqg ghvwurblqj Pdwkhpdwlfv dw lw’v urrw.  

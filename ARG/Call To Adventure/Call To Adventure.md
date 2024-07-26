@@ -24,5 +24,3 @@ For now, meet your fellow compatriots who will be able to help you on this quest
 
 May the odds be ever in your favour,
 Sir Caesar
-
-~plaintext~
