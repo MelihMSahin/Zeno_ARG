@@ -3,7 +3,7 @@ To the brave adventurers willing to take up this challenge,
 
 We invite you to join the Mathematics Society! We offer a blend of academic seminars, exciting social events such as board game nights, a pizza party, movie nights, ice-skating, and an opportunity to meet like minded people at our seminars and events. Meet our mascot, the Tortoise Professor Zeno, and be a part of a community that shares your passion in mathematics. 
 
-This year we have a massive adventure that is sure to teach you about the nerdiest depths of mathematics, while challenging your attention to detail, knowledge of mathematical paradoxes, and digital literacy. But to earn the right to start this quest; you must first solve this here puzzle written by our dear friend Sir Caesar. 
+This year we have a massive adventure that is sure to teach you about the nerdiest depths of mathematics, while challenging your attention to detail, knowledge of mathematical paradoxes, and digital literacy. But to start this quest; first you must first solve this here puzzle written by our dear friend, Sir Caesar. 
 
 ~ciphertext (Standard +3 Encryption)~
 Dear Seeker of Truth

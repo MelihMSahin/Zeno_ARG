@@ -3,6 +3,10 @@
 - [[Introduction to Terrance]] (Board Games Event)
 - 
 - Invitation to the Order of the Abacus
+- internet mission
+- scav hunt
 - decrypting enemy messages encrypted with false maths
+- Trying to figure out the motivations
 - 
-- Finding Zeno (keychains?) in Maths building
+- 
+- Zeno has been rescued, and has hidden various gifts throughout Elea as thanks for the rescuers

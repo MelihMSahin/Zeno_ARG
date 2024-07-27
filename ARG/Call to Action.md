@@ -1,4 +1,4 @@
-Hero's Journey hehe
+Hero's Journey
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/1b/Heroesjourney.svg)
 
