@@ -1,10 +1,77 @@
-
 body {
-    padding-left: 3rem;
-    padding-right: 3rem;
+    padding-left: 15%;
+    padding-right: 15%;
+    background-color: lightcyan;
+
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    width: 100%;
+
+    display: flex;
+    flex-direction: row;
 }
 
 
+
+
+/* 
+*/
+/* 
+*/
+
+
+section#content {
+    background-color: lavenderblush;
+    margin: 0.25REM;
+    padding: 0.45REM;
+    width: 100%;
+}
+
+.item {
+    background-color: lavender;
+    margin: 0.25REM;
+    padding: 0.45REM;
+}
+
+/* header stuff */
+header {
+    background-color: green;
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+header nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header nav a {
+    padding: 1REM;
+    align-self: center;
+    color: white;
+}
+
+header nav ul {
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    padding: 0.1REM;
+    align-items: center;
+}
+
+/* links */
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
 
 
 /* details summary */
