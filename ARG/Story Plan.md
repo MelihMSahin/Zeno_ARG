@@ -1,4 +1,5 @@
 # Event Timeline
+- [[First Steps]] Freshers Week
 - [[Call To Adventure]] and the Pizza Party
 - [[Introduction to Terrance]] (Board Games Event)
 - 
