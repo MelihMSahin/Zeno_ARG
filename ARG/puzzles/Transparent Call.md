@@ -2,7 +2,7 @@ Welcome to the Mathematics Society!
 
 We offer academic seminars, social events like board game nights, pizza parties, movie nights, and ice-skating. Meet our mascot, Professor Zeno the Tortoise, and connect with fellow math enthusiasts.
 
-For puzzle lovers, we are partnering with the Order of The Abacus to bring you challenging puzzles throughout the year, testing your logical thinking, mathematical history, and detective skills. Prizes await those who solve them all. First of which is below.
+For puzzle lovers, we are partnering with the Order of The Abacus to bring you challenging puzzles throughout the year, testing your logical thinking, mathematical history, and detective skills. Prizes await those who solve them all. A message from Sir Caeser introduces your first puzzle.
 
 Dear Seeker of /c(Truth),
 
