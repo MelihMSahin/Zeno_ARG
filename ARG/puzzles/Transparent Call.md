@@ -12,3 +12,5 @@ Before the fun puzzle solving starts, let me introduce you to Professor Zeno, wh
 
 Here is your riddle:
 In 1990, a person is 15 years old. In 1995, [that same person is] {this bit is all ciphered as the discord link}  10 years old. How can this be?
+
+by Sir Caeser
