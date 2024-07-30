@@ -5,3 +5,4 @@ Hero's Journey
 So, we shall start with an invitation, a call to action, to the Order of the Abacus or whatever it shall end up being (we really should decide upon this soon), 
 
 		You aren't forgetting that each event is mostly self contained, right?
+	No, it's just a rough storyline
